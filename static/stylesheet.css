@@ -1,0 +1,101 @@
+.select{
+    background-color: maroon;
+        color: white;
+        font-size: 14px; 
+        font-weight: lighter;
+        padding: 8px;
+        cursor: pointer;
+        border-radius: 5px;
+}
+.select:hover{
+    background-color: brown;
+    color: black;
+
+}
+.select:active{
+    background-color: rgb(206, 134, 134);
+    
+}
+    .Market
+    {
+        background-color: maroon;
+        color: white;
+        font-size: 14px; 
+        font-weight: lighter;
+        padding: 0px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+    .market:hover {
+        background-color: brown;
+        color: black;
+    }
+
+    .market:active {
+        background-color: rgb(206, 134, 134);
+    }
+    
+    
+    .buy {
+        background-color: maroon;
+        color: white;
+        font-size: 14px;
+        font-weight: lighter;
+        padding: 8px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .buy:hover {
+        background-color: brown;
+        color: black;
+    }
+
+    .buy:active {
+        background-color: rgb(206, 134, 134);
+    }
+
+
+    
+    .sell {
+        background-color: maroon;
+        color: white;
+        font-size: 14px;
+        font-weight: lighter;
+        padding: 8px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .sell:hover {
+        background-color: brown;
+        color: black;
+    }
+
+    .sell:active {
+        background-color: rgb(206, 134, 134);
+    }
+
+    
+    .transport {
+        background-color: maroon;
+        color: white;
+        font-size: 14px;
+        font-weight: lighter;
+        padding: 8px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .transport:hover {
+        background-color: brown;
+        color: black;
+    }
+
+    .transport:active {
+        background-color: rgb(206, 134, 134);
+
